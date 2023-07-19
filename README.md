@@ -7,7 +7,7 @@ Since you're already here, find me on: [![LinkedIn Badge](https://img.shields.io
 ## 🙋‍♂️ hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anandhu T P.  
 
 - <i>Currently:</i> Freelance Frontend Developer 
-- <i>Previously:</i> Junior Executive - Annotation Engineer at [![Atos](https://img.shields.io/badge/-InFolks-blue)](https://infolks.info/)
+- <i>Previously:</i> Junior Executive - Annotation Engineer at [![InFolks](https://img.shields.io/badge/-InFolks-blue)](https://infolks.info/)
 
 ## 💻 I'm Currently working on:
 
@@ -26,7 +26,7 @@ Since you're already here, find me on: [![LinkedIn Badge](https://img.shields.io
 </a>  
 
 <a href="https://github.com/anandhu-tp/anandhu-tp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=/anandhu-tp&theme=dracula&show_icons=true&line_height=24.5&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anandhu-tp&theme=synthwave&show_icons=true&line_height=24.5&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats"/>
 </a>
 
 💞️ I’m looking foward to collaborate on open source projects.
