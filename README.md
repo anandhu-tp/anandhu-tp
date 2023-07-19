@@ -31,4 +31,4 @@ Since you're already here, find me on: [![LinkedIn Badge](https://img.shields.io
 
 💞️ I’m looking foward to collaborate on open source projects.
 
-📫 You can reach me via 📧 [here ](mailto:jishnu.tp@proton.me?subject=[GitHub]) or 💬 [ping me here!](https://api.whatsapp.com/send?phone=918111855276&text=Hi,Ishin!)
+📫 You can reach me via 📧 [here ](mailto:anandhu.vijayantp@gmail.com?subject=[GitHub]) or 💬 [ping me here!](https://api.whatsapp.com/send?phone=917736683189&text=Hi,Anandhu, Are you interest in Collabrating with me?)
